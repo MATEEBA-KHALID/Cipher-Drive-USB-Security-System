@@ -4,6 +4,7 @@ import sys
 import platform
 import subprocess
 import shutil
+import logging
 
 def get_system_info():
     """Get system information"""
